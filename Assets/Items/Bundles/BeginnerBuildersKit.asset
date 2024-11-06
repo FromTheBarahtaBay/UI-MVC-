@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ae4d3805caf43a9b6fcaf85e363779, type: 3}
+  m_Name: BeginnerBuildersKit
+  m_EditorClassIdentifier: 
+  HeaderText: "\u041D\u0430\u0431\u043E\u0440 \u043D\u0430\u0447\u0438\u043D\u0430\u044E\u0449\u0435\u0433\u043E
+    \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044F"
+  DescriptionText: "\u041F\u043E\u043C\u043E\u0436\u0435\u0442 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C
+    \u043D\u0430 \u043F\u043B\u043E\u0442 \u0432\u0441\u0435 \u043D\u0443\u0436\u043D\u044B\u0435
+    \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+  MainSprite: {fileID: 2747690628134850419, guid: d07c7cdf6d43a41a592cae060910bbbf, type: 3}
+  Price: 6
+  Discount: 30
+  Supplies:
+  - {fileID: 11400000, guid: a3ebb3b11816d46f5b8af56e09393d2c, type: 2}
+  - {fileID: 11400000, guid: ec24b8a393fba4f6c8407b6c46abb366, type: 2}
+  - {fileID: 11400000, guid: 327b7ca5a202440048c0fef3fd4febf3, type: 2}
+  - {fileID: 11400000, guid: 699df28d02a8d45ff879227c7d9668fd, type: 2}
+  - {fileID: 11400000, guid: 6e1e2a5f4f093428c93d58e0d967e8b4, type: 2}
+  - {fileID: 11400000, guid: 63cf357627d014fed9d9a3c4f99defbf, type: 2}
+  Values: 140000002800000014000000140000001400000014000000
